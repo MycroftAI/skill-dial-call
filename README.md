@@ -1,1 +1,4 @@
-# skill-dial-call
+# Dial Call Skill
+
+## Usage:
+* `call Mycroft`
